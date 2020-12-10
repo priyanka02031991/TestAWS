@@ -1,6 +1,10 @@
 new file created 
 <<<<<<< HEAD
+<<<<<<< HEAD
 priyanka has updated1
+=======
+priyanka has updated
+>>>>>>> a5a321dcb3b08a085d57728026e4d542368b3fc7
 =======
 priyanka has updated
 >>>>>>> a5a321dcb3b08a085d57728026e4d542368b3fc7
